@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Building **full stack applications** with the MERN stack<br>- 👯 Open to collaborating on **web projects and open-source contributions**<br>- 🤝 Seeking guidance on **backend architecture, REST APIs and authentication**<br>- 🌱 Deepening my skills in **React, Node.js, Express and MongoDB**<br>- 💬 Ask me about **JavaScript, responsive UI and front-end fundamentals**<br>- ⚡ Fun fact: I code better with chai ☕
+- 🔭 Building **full stack applications** with the MERN stack<br>- 👯 Open to collaborating on **web projects and open-source contributions**<br>- 🤝 Seeking guidance on **backend architecture, REST APIs and authentication**<br>- 🌱 Deepening my skills in **React, Node.js, Express and MongoDB**<br>- 💬 Ask me about **JavaScript, responsive UI and front-end fundamentals**<br>- ⚡ Fun fact: I code better with chai ☕ 
 
 
 ## 🌐 Socials:
